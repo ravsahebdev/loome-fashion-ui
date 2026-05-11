@@ -1,2 +1,51 @@
-# loome-fashion-ui
-A modern fashion landing page built using HTML &amp; CSS.  This project was created as part of a CSS positioning assignment focused on: • position: relative • position: absolute • UI layout structuring  Designed with a clean and premium aesthetic while practicing real-world frontend concepts 🚀
+# ✨ loome-fashion-ui
+
+A modern fashion landing page built using HTML & CSS.
+
+This project was created as part of a CSS positioning assignment focused on building real-world UI layouts using positioning concepts.
+
+---
+
+## 🚀 Features
+
+- Modern fashion landing page UI
+- Clean and premium aesthetic
+- CSS positioning practice
+- Overlapping layout elements
+- Minimal and elegant design
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Remix Icons
+
+---
+
+## 📚 Concepts Practiced
+
+- position: relative
+- position: absolute
+- Flexbox
+- UI Structuring
+- Layering Elements
+
+---
+
+## 📸 Preview
+
+A premium fashion-inspired landing page created while practicing frontend layout concepts.
+
+---
+
+## 🌐 Live Demo
+
+Coming Soon...
+
+---
+
+## 💻 Author
+
+Ravsaheb Dev
