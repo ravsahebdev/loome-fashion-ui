@@ -40,9 +40,10 @@ A premium fashion-inspired landing page created while practicing frontend layout
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo 
 
-Coming Soon...
+[View Live Project](https://ravsahebdev.github.io/loome-fashion-ui/)
+
 
 ---
 
